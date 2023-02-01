@@ -4,7 +4,7 @@
       <b-row>
         <b-col cols="12" md="6">
           <img class="avatar" src="../assets/images/2022060700.jpg">
-          <p>Blackcat</p>
+          <p>HeyMiao</p>
         </b-col>
         <b-col cols="12" md="6">
           <div class="about">
@@ -13,7 +13,7 @@
               <h1>About</h1>
             </div>
             <div class="text">
-              <h2 class="bold">黑喵 <span class="maru">blackcat</span></h2>
+              <h2 class="bold">黑喵 <span class="maru">HeyMiao</span></h2>
               <p>
                 <span class="maru">7</span>月<span class="maru">8</span>日出生<br>
                 <br>
@@ -38,9 +38,9 @@
             </div>
             <div class="text">
               <p class="maru bold">
-                ✦ Twitter︱<a target="_blank" href="https://twitter.com/BlackCat_hpmi">@BlackCat_hpmi</a><br>
+                ✦ Twitter︱<a target="_blank" href="https://twitter.com/HeyMiao_illust">@HeyMiao_illust</a><br>
                 ✦ Pixiv ︱<a target="_blank" href="https://www.pixiv.net/users/4954908">4954908</a><br>
-                ✦ E-mail︱<a href="mailto:blackcat19980708@gmail.com">blackcat19980708@gamil.com</a><br>
+                ✦ E-mail︱<a href="mailto:heymiao.illust@gmail.com">heymiao.illust@gmail.com</a><br>
               </p>
             </div>
           </div>

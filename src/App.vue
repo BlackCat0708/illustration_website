@@ -6,7 +6,7 @@
         <!-- LOGO -->
         <b-navbar-brand to="/">
           <img class="blackcat-logo" src="./assets/images/BLACKCAT_logo.png">
-          <span class="blackcat-name">BLACKCAT</span>
+          <span class="blackcat-name">HEYMIAO</span>
         </b-navbar-brand>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
@@ -26,7 +26,7 @@
           ✦ 二次創作之作品版權皆屬原作與官方。<br>
           ✦ 本網站之創作與原作、官方無任何關係。<br>
           ✦ 全部圖文皆為本站管理者所有。<br>
-          <span class="copyright">Copyright © BlackCat 2022</span>
+          <span class="copyright">Copyright © HeyMiao 2022</span>
           </p>
         </div>
         </b-collapse>
@@ -38,7 +38,7 @@
     </div>
 
     <div id="footer">
-      <p>Copyright © BlackCat 2022</p>
+      <p>Copyright © HeyMiao 2022</p>
     </div>
   </div>
 </template>

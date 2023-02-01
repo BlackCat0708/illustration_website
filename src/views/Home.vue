@@ -16,7 +16,7 @@
       <img class="foot" src="../assets/images/BLACKCAT_foot.svg">
       <div class="link-group">
         <div class="link">
-          <a target="_blank" href="https://twitter.com/BlackCat_hpmi">
+          <a target="_blank" href="https://twitter.com/HeyMiao_illust">
             <img src="../assets/images/twitter-brands.svg" alt="Twitter">
           </a>
         </div>
@@ -26,7 +26,7 @@
           </a>
         </div>
         <div class="link">
-          <a href="mailto:blackcat19980708@gmail.com">
+          <a href="mailto:heymiao.illust@gmail.com">
             <img src="../assets/images/envelope-solid.svg" alt="E-mail">
           </a>
         </div>
