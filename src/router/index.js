@@ -10,7 +10,7 @@ const routes = [
     name: 'Home',
     component: Home,
     meta: {
-      title: 'BLACKCAT'
+      title: 'HEYMIAO'
     }
   },
   {
@@ -18,7 +18,7 @@ const routes = [
     name: 'About',
     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue'),
     meta: {
-      title: 'BLACKCAT ⧓ About'
+      title: 'HEYMIAO ⧓ About'
     }
   },
   {
@@ -26,7 +26,7 @@ const routes = [
     name: 'OriginalGallery',
     component: () => import(/* webpackChunkName: "original_gallery" */ '../views/OriginalGallery.vue'),
     meta: {
-      title: 'BLACKCAT ⧓ Original Gallery'
+      title: 'HEYMIAO ⧓ Original Gallery'
     }
   },
   {
@@ -34,7 +34,7 @@ const routes = [
     name: 'FanArtGallery',
     component: () => import(/* webpackChunkName: "fan_art_gallery" */ '../views/FanArtGallery.vue'),
     meta: {
-      title: 'BLACKCAT ⧓ Fan Art Gallery'
+      title: 'HEYMIAO ⧓ Fan Art Gallery'
     }
   },
   {
@@ -42,7 +42,7 @@ const routes = [
     name: 'NotFound',
     component: () => import(/* webpackChunkName: "notfound" */ '../views/NotFound.vue'),
     meta: {
-      title: 'BLACKCAT ⧓ 404'
+      title: 'HEYMIAO ⧓ 404'
     }
   },
   {
