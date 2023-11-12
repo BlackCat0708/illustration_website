@@ -5,7 +5,7 @@
       <b-navbar toggleable="lg" type="light" variant="warning">
         <!-- LOGO -->
         <b-navbar-brand to="/">
-          <img class="blackcat-logo" src="./assets/images/BLACKCAT_logo.png">
+          <img class="blackcat-logo" src="./assets/images/heymiao_logo.png">
           <span class="blackcat-name">HEYMIAO</span>
         </b-navbar-brand>
 
@@ -17,6 +17,7 @@
             <b-nav-item to="/about">About</b-nav-item>
             <b-nav-item to="/original_gallery">Original Gallery</b-nav-item>
             <b-nav-item to="/fan_art_gallery">Fan Art Gallery</b-nav-item>
+            <b-nav-item to="/commision_gallery">Commision Gallery</b-nav-item>
           </b-navbar-nav>
 
         <!-- 告示 -->

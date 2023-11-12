@@ -39,114 +39,114 @@ export default {
     return {
       illustration: [
         {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1657611276/original%20gallery/2022051901_square_dfzfbk.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1657611276/original%20gallery/2022051901_nne11h.jpg',
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699793388/original%20gallery/klvwob0pmbp69zluryvh.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699793388/original%20gallery/sklnmznnd1wd0eyoobjs.jpg',
           description: '青空のクリームソーダ',
           alt: '青空のクリームソーダ'
         },
         {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1657611269/original%20gallery/20210904_ybit1c.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1657611269/original%20gallery/20210904_ybit1c.jpg',
-          description: 'Cat Collection',
-          alt: 'Cat Collection'
-        },
-        {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1657611275/original%20gallery/20220303_square_qaffrh.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1657611275/original%20gallery/20220303_pz57tb.jpg',
-          description: 'Sweet Strawberry',
-          alt: 'Sweet Strawberry'
-        },
-        {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1657611273/original%20gallery/2022040400_square_qwqmjb.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1657611273/original%20gallery/2022040400_fljqox.jpg',
-          description: '海風',
-          alt: '海風'
-        },
-        {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1657611275/original%20gallery/2021122501_square_ajf0x3.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1657611272/original%20gallery/2021122501_kwbnhf.jpg',
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699793388/original%20gallery/tlyrcf7stb8yb54efaih.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699793387/original%20gallery/cv0bu6nws2dqfuog4ddj.jpg',
           description: 'Happy New Year 2022',
           alt: 'Happy New Year 2022'
         },
         {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1675258838/original%20gallery/2022123002_small00_mfiqrn.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1675258838/original%20gallery/2022123002_small00_mfiqrn.jpg',
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699793387/original%20gallery/waykqy8dqkbdmv8cby52.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699793387/original%20gallery/waykqy8dqkbdmv8cby52.jpg',
+          description: 'Cat Collection',
+          alt: 'Cat Collection'
+        },
+        {
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699793387/original%20gallery/jhwyrjzrt756kgc4pzx4.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699793387/original%20gallery/uqwx3ldjlte9bgvogofn.jpg',
+          description: '桜',
+          alt: '桜'
+        },
+        {
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699793387/original%20gallery/uefa1yrrjfg5vlhwvnlv.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699793387/original%20gallery/wma6fnsxehyqz4pcphko.jpg',
+          description: 'NAMUNA',
+          alt: 'NAMUNA'
+        },
+        {
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699793388/original%20gallery/mkceqow9xq2vkbeyglpt.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699793388/original%20gallery/lwtfridydhz0nav1mkbp.jpg',
           description: '2023 YEAR OF THE RABBIT',
           alt: '2023 YEAR OF THE RABBIT'
         }
       ],
       fasionDesign: [
         {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1675258839/original%20gallery/20220512_small00_yvv7uh.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1675258838/original%20gallery/20220512_small_fof49f.jpg',
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794288/original%20gallery/lfmmsplwxqb2jdbbnd7r.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794286/original%20gallery/bi5cj2o0ebv8ycgo0m9k.jpg',
           description: '2022春夏裝',
           alt: '2022春夏裝'
         },
         {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1675258837/original%20gallery/20221128_small00_n1ctkh.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1675258838/original%20gallery/20221128_small_s9e77b.jpg',
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794288/original%20gallery/noudlv1vwc1limpiyjah.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794288/original%20gallery/zfpz0zlmn4wx4ommfw6y.jpg',
           description: '2023旗袍',
           alt: '2023旗袍'
         },
         {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612867/original%20gallery/20210927_square_ytbd0v.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612867/original%20gallery/20210927_myklyt.jpg',
-          description: '護士服',
-          alt: '護士服'
-        },
-        {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612868/original%20gallery/20210825%E5%B0%8F_square_bp2t4a.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612870/original%20gallery/20210825%E5%B0%8F_f5bnkj.jpg',
-          description: '私服',
-          alt: '私服'
-        },
-        {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612869/original%20gallery/202108010101_square_mmzi5l.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612870/original%20gallery/202108010101_er2bw0.jpg',
-          description: '2021偶像服 ⧓ 隊長',
-          alt: '2021偶像服 ⧓ 隊長'
-        },
-        {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612871/original%20gallery/20210725_square_ezb5xn.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612873/original%20gallery/20210725_whwgha.jpg',
-          description: '2021偶像服',
-          alt: '2021偶像服'
-        },
-        {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1675258836/original%20gallery/20221023_small00_tlehnb.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1675258837/original%20gallery/20221023_small_lxrlez.jpg',
-          description: '2022 Halloween',
-          alt: '2022 Halloween'
-        },
-        {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612869/original%20gallery/2021040101_square_v8nagc.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612873/original%20gallery/2021040101_jyfu29.jpg',
-          description: '2021春夏裝',
-          alt: '2021春夏裝'
-        },
-        {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612868/original%20gallery/20220113_square_hg3f7b.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612868/original%20gallery/20220113_os2nqr.jpg',
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794286/original%20gallery/ob463idgpf2fozdejtc7.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794288/original%20gallery/bxgdma4vg5hjn2yiplov.jpg',
           description: '夢百貨 電梯小姐 / 服務台小姐',
           alt: '夢百貨 電梯小姐 / 服務台小姐'
         },
         {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612871/original%20gallery/2021071703%E5%B0%8F_square_oraxfa.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612872/original%20gallery/2021071703%E5%B0%8F_v5yuyr.jpg',
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794287/original%20gallery/jcidavfkkxq7gixpb42f.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794286/original%20gallery/oaqjhvnysz2yhtqnsoeh.jpg',
+          description: '護士服',
+          alt: '護士服'
+        },
+        {
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794288/original%20gallery/nhnyvpbdilipnwm39ak2.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794287/original%20gallery/fm065sw0s94drdaam49x.jpg',
           description: '私服',
           alt: '私服'
         },
         {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612864/original%20gallery/20201119_square_k13wam.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612866/original%20gallery/20201119_hnv2vv.jpg',
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794287/original%20gallery/nrfra8kbvim9zoywcz8t.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794287/original%20gallery/mtmgai0tqocvkagzkpto.jpg',
+          description: '2021夏季祭典浴衣',
+          alt: '2021夏季祭典浴衣'
+        },
+        {
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794287/original%20gallery/msgr6jclixyfejrbf755.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794288/original%20gallery/m5lrunglg43y68uibdfx.jpg',
+          description: '2022 Halloween',
+          alt: '2022 Halloween'
+        },
+        {
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794287/original%20gallery/wsgimkbz01ou9btocjr4.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794286/original%20gallery/sagb9gfzhu37dvn1wjed.jpg',
+          description: '雨衣',
+          alt: '雨衣'
+        },
+        {
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794289/original%20gallery/tdfw5m875iipgzbgyyzl.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794289/original%20gallery/jaddy5orz4r1omanhraq.jpg',
+          description: '私服',
+          alt: '私服'
+        },
+        {
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794287/original%20gallery/lxcwzalf5fhauwrk8msa.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794289/original%20gallery/kodr2d34gkyzd9od7cwv.jpg',
+          description: '2021春夏裝',
+          alt: '2021春夏裝'
+        },
+        {
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794286/original%20gallery/ilv3fkyculoh3stgkquv.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794286/original%20gallery/ax6to79xbtf9kdkoecpb.jpg',
           description: '2020偶像服',
           alt: '2020偶像服'
         },
         {
-          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612867/original%20gallery/20210708_square_psuaym.jpg',
-          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1657612868/original%20gallery/20210708_rkjbmj.jpg',
-          description: '2021夏季祭典浴衣',
-          alt: '2021夏季祭典浴衣'
+          thumbnail: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794287/original%20gallery/wgbqfd1p34dupeounicj.jpg',
+          src: 'https://res.cloudinary.com/duplahipf/image/upload/v1699794288/original%20gallery/l2of4rzrhzvhd9avpnjp.jpg',
+          description: '2021偶像服',
+          alt: '2021偶像服'
         }
       ]
     }

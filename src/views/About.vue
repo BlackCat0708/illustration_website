@@ -3,8 +3,7 @@
     <b-container>
       <b-row>
         <b-col cols="12" md="6">
-          <img class="avatar" src="../assets/images/2022060700.jpg">
-          <p>HeyMiao</p>
+          <img class="avatar" src="../assets/images/20230714.jpg">
         </b-col>
         <b-col cols="12" md="6">
           <div class="about">

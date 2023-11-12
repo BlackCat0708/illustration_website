@@ -38,6 +38,14 @@ const routes = [
     }
   },
   {
+    path: '/commision_gallery',
+    name: 'CommisionGallery',
+    component: () => import(/* webpackChunkName: "commision" */ '../views/CommisionGallery.vue'),
+    meta: {
+      title: 'HEYMIAO ⧓ Commision Gallery'
+    }
+  },
+  {
     path: '/404',
     name: 'NotFound',
     component: () => import(/* webpackChunkName: "notfound" */ '../views/NotFound.vue'),
